@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Generated files
+*.wav
+*.txt
+analysis_result.json
+
+# Whisper outputs
+*.srt
+*.tsv
+*.vtt
+*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+*.mp4
