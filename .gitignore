@@ -17,11 +17,10 @@ analysis_result.json
 *.srt
 *.tsv
 *.vtt
-*.json
 
 # OS files
 .DS_Store
 Thumbs.db
 
-
+#Videos
 *.mp4
